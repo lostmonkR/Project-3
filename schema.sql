@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS foodHub_db;
+CREATE DATABASE foodHub_db;
